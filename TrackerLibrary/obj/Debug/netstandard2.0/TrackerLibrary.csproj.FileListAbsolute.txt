@@ -1,0 +1,8 @@
+D:\C# fundamental\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
+D:\C# fundamental\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
+D:\C# fundamental\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
+D:\C# fundamental\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
+D:\C# fundamental\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
+D:\C# fundamental\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
+D:\C# fundamental\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.dll
+D:\C# fundamental\TournamentTracker\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.pdb
